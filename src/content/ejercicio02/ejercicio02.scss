@@ -1,25 +1,9 @@
 
 /* importamos los themas*/
 
-@import "./themes/init";
-@import "./themes/theme01";
+// @import "./themes/theme01";
 @import "./themes/theme02";
-@if ($theme == red) {
-    
-}
-@if ($theme == 2) {
-    
-}
 
-/*
-@import 
-para traerme las variables etc..
-
-$bg_color
-$text_color
-$radius:
-$shadow
-*/
 .content {
     display: flex;
     flex-direction: column;
