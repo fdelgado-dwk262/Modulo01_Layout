@@ -20,7 +20,6 @@ body {
     justify-content: space-between;
     @include for-size(tablet-portrait-up) {
         justify-content: flex-start;
-        
     }
 }
 .header {
